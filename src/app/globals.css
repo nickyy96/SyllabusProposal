@@ -25,7 +25,3 @@ body, p {
     )
     rgb(var(--background-start-rgb)); */
 }
-
-p {
-  color: red
-}
